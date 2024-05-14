@@ -1,7 +1,8 @@
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:200%;position:relative;"><iframe width="360" height="720" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/8q2b3s"></iframe></div><p><a href="https://imgflip.com/gif/8q2b3s">via Imgflip</a></p></div>
+
 # React Native News App
 
-## Project Summary
+## Project Summary![8q2b3s](https://github.com/talharizvi/SampleProject/assets/33376398/43d2dd55-42ef-420c-9172-dc0620d4afc4)
+
 This is a simple news application built with React Native. It allows users to search for news articles based on a specific query and displays the results in a list. The application retrieves news data from the GNews API and provides a clean and user-friendly interface for browsing news articles.
 
 ## Code Walkthrough Details
